@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "title": "Wanderlust",
+    "category": "Web Development",
+    "image": "/images/Screenshot 2025-01-26 201410.png"
+  },
+  {
+    "id": 2,
+    "title": "Learnhub",
+    "category": "Web Development",
+    "image": "/images/Screenshot 2025-01-26 201654.png"
+  }
+]

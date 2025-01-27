@@ -1,0 +1,44 @@
+[
+  {
+    "title": "Creative Animations for Modern Web Design",
+    "category": "Web Development",
+    "date": "Jan 15, 2025",
+    "image": "https://careerninja.in/wp-content/uploads/2018/12/web-developer-640x427.jpg",
+    "description": "Explore how to use CSS and JavaScript to create stunning animations that make websites engaging and visually appealing."
+  },
+  {
+    "title": "10 Must-Attend Tech Conferences in 2025",
+    "category": "Tech Events",
+    "date": "Jan 10, 2025",
+    "image": "https://blog.hyperiondev.com/wp-content/uploads/2019/02/Blog-Tech-Events.jpg",
+    "description": "A curated list of the top tech events to enhance your skills, expand your network, and stay updated with industry trends."
+  },
+  {
+    "title": "How Competitive Programming Enhances Your Problem-Solving Skills",
+    "category": "Programming",
+    "date": "Jan 20, 2025",
+    "image": "https://miro.medium.com/v2/resize:fit:3840/1*dKEfzl6bh-jGXBz_jLbR4Q.jpeg",
+    "description": "Dive into the world of competitive programming and learn how it can improve your coding efficiency and logical thinking."
+  },
+  {
+    "title": "Full-Stack Project Ideas for College Students",
+    "category": "Projects",
+    "date": "Jan 5, 2025",
+    "image": "https://media.licdn.com/dms/image/v2/D5612AQHVwXMtik71mA/article-cover_image-shrink_600_2000/article-cover_image-shrink_600_2000/0/1711949664238?e=2147483647&v=beta&t=UFf9MlCUvtYdbp1z6hOZJheJOYYPgySDGaivnuuP6Uc",
+    "description": "Practical and impactful full-stack project ideas to showcase your skills and stand out in interviews."
+  },
+  {
+    "title": "Building an E-Learning Platform: Lessons from LearnHub",
+    "category": "Web Development",
+    "date": "Jan 25, 2025",
+    "image": "https://codecondo.com/wp-content/uploads/2017/04/Programming-Blogs-and-Website.jpg",
+    "description": "Discover the challenges and best practices in building a scalable and user-friendly e-learning platform like LearnHub."
+  },
+  {
+    "title": "Beginner's Guide to Backend Development with Node.js",
+    "category": "Web Development",
+    "date": "Dec 30, 2024",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTE0Yxms8HmXGCgIOF6h3TAlJkRTRiPDIdz0A&s",
+    "description": "Learn how to get started with Node.js and build a solid foundation for backend web development."
+  }
+]

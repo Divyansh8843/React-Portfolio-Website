@@ -1,0 +1,22 @@
+[
+  {
+    "title": "Web Development",
+    "icon": "https://cdn-icons-png.flaticon.com/512/6352/6352331.png",
+    "description": " I specialize in creating dynamic and responsive websites that not only look great but also provide a seamless user experience. "
+  },
+  {
+    "title": "Software development",
+    "icon": "https://cdn-icons-png.freepik.com/256/10614/10614684.png?semt=ais_hybrid",
+    "description": "I offer custom software development services designed to meet your unique business needs."
+  },
+  {
+    "title": "Software Testing",
+    "icon": "https://media.licdn.com/dms/image/D5612AQHFuLniquzZVQ/article-cover_image-shrink_600_2000/0/1704974672404?e=2147483647&v=beta&t=399-ib5Sjc5e-C1AMpb9r9SZlY1NkyJ-EHpZGhK-bEw",
+    "description": "I specialize in ensuring software quality through comprehensive testing solutions, including functional, automated, performance, and cross-browser testing"
+  },
+  {
+    "title": "Data Analysis",
+    "icon": "https://cdn-icons-png.flaticon.com/512/6054/6054316.png",
+    "description": " I perform data cleaning, visualization, and statistical analysis to transform raw data into actionable insights for businesses and projects."
+  }
+]
