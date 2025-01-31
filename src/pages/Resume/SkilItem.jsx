@@ -1,5 +1,6 @@
 export default function SkillItem({title,value})
 {
+    
     return (
         <li className="skills-item">
             <div className="title-wrapper">
