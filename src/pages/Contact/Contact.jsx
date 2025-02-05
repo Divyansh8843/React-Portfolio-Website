@@ -28,6 +28,7 @@ function Contact() {
               id="fullname"
               className="form-input"
               placeholder="Full Name"
+              required
             />
             <input
               type="email"
@@ -35,9 +36,10 @@ function Contact() {
               id="email"
               className="form-input"
               placeholder="Email Address"
+              required
             />
                   </div>
-                  <textarea name="message" id="message" className='form-input' placeholder='Your Messages'></textarea>
+                  <textarea name="message" id="message" className='form-input' placeholder='Your Messages' required></textarea>
                   <button className='form-btn' type='submit'>
                       <span>Send Message</span>
                   </button>
